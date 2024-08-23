@@ -10,7 +10,7 @@ body {
 }
 
 section {
-  background: url(/assets/images/stars.webp);
+  background: url(assets/images/stars.webp);
   height: 100vh;
   display: flex;
   justify-content: center;
